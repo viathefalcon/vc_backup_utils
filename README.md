@@ -1,4 +1,4 @@
-# Verifiable Credential Utils
+# Verifiable Credential Backup Utils
 
 In 2022, I implemented the Verified ID import/export ("backup/restore") feature in [Microsoft Authenticator](https://go.microsoft.com/fwlink/p/?LinkID=2168643), mainly via the [Verifiable Credential SDK for iOS](https://github.com/microsoft/VerifiableCredential-SDK-iOS/pull/128).
 
